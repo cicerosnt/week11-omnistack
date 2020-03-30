@@ -43,7 +43,7 @@ export default function NewIncident(){
         <section>
           <img src={logoImg} alt="Be the hero"/>
 
-          <h1>Cadastrar novo caso</h1>
+          <h1>Cadastrar novo Caso</h1>
           <p>Descreva o caso detalhadamente para encontrar um herói para reslver isso.</p>
 
           <Link className="back-link" to="/profile">
